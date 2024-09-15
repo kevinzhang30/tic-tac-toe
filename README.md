@@ -1,7 +1,3 @@
-Sure! Here's a draft README file for your Tic-Tac-Toe project. Feel free to adjust any details as needed:
-
----
-
 # Tic-Tac-Toe Game
 
 This is a simple two-player **Tic-Tac-Toe** game built using Python's Tkinter library. The game features a menu screen with a button that leads to the game interface.
